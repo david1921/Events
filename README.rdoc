@@ -1,0 +1,3 @@
+== README
+
+Assuming user or any app /curl hit  http://localhost:3000 the app will register/save the event to the database and it will also display the origin host and time stamp on the view.
